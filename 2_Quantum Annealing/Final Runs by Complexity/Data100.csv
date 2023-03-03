@@ -1,0 +1,2937 @@
+Complexity;QPU;Energy;Category
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.4;CPU
+Job100;QBSolv;-9.4;CPU
+Job100;QBSolv;-9.4;CPU
+Job100;QBSolv;-9.4;CPU
+Job100;QBSolv;-9.4;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-9.7;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;QBSolv;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-10;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.7;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.4;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-9.1;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.8;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.5;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-8.2;CPU
+Job100;Neal;-7.9;CPU
+Job100;Neal;-7.9;CPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-10;QPU
+Job100;Fujitsu DAU;-7.44;QPU
+Job100;Fujitsu DAU;-7.48;QPU
+Job100;Fujitsu DAU;-7.68;QPU
+Job100;Fujitsu DAU;-7.72;QPU
+Job100;Fujitsu DAU;-7.82;QPU
+Job100;Fujitsu DAU;-7.83;QPU
+Job100;Fujitsu DAU;-7.93;QPU
+Job100;Fujitsu DAU;-7.94;QPU
+Job100;Fujitsu DAU;-7.94;QPU
+Job100;Fujitsu DAU;-7.94;QPU
+Job100;Fujitsu DAU;-7.98;QPU
+Job100;Fujitsu DAU;-8;QPU
+Job100;Fujitsu DAU;-8;QPU
+Job100;Fujitsu DAU;-8;QPU
+Job100;Fujitsu DAU;-8.01;QPU
+Job100;Fujitsu DAU;-8.03;QPU
+Job100;Fujitsu DAU;-8.04;QPU
+Job100;Fujitsu DAU;-8.04;QPU
+Job100;Fujitsu DAU;-8.04;QPU
+Job100;Fujitsu DAU;-8.04;QPU
+Job100;Fujitsu DAU;-8.05;QPU
+Job100;Fujitsu DAU;-8.06;QPU
+Job100;Fujitsu DAU;-8.07;QPU
+Job100;Fujitsu DAU;-8.11;QPU
+Job100;Fujitsu DAU;-8.11;QPU
+Job100;Fujitsu DAU;-8.13;QPU
+Job100;Fujitsu DAU;-8.14;QPU
+Job100;Fujitsu DAU;-8.14;QPU
+Job100;Fujitsu DAU;-8.14;QPU
+Job100;Fujitsu DAU;-8.15;QPU
+Job100;Fujitsu DAU;-8.15;QPU
+Job100;Fujitsu DAU;-8.23;QPU
+Job100;Fujitsu DAU;-8.24;QPU
+Job100;Fujitsu DAU;-8.25;QPU
+Job100;Fujitsu DAU;-8.25;QPU
+Job100;Fujitsu DAU;-8.25;QPU
+Job100;Fujitsu DAU;-8.28;QPU
+Job100;Fujitsu DAU;-8.28;QPU
+Job100;Fujitsu DAU;-8.29;QPU
+Job100;Fujitsu DAU;-8.29;QPU
+Job100;Fujitsu DAU;-8.29;QPU
+Job100;Fujitsu DAU;-8.29;QPU
+Job100;Fujitsu DAU;-8.3;QPU
+Job100;Fujitsu DAU;-8.32;QPU
+Job100;Fujitsu DAU;-8.32;QPU
+Job100;Fujitsu DAU;-8.33;QPU
+Job100;Fujitsu DAU;-8.33;QPU
+Job100;Fujitsu DAU;-8.35;QPU
+Job100;Fujitsu DAU;-8.35;QPU
+Job100;Fujitsu DAU;-8.35;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.36;QPU
+Job100;Fujitsu DAU;-8.38;QPU
+Job100;Fujitsu DAU;-8.39;QPU
+Job100;Fujitsu DAU;-8.39;QPU
+Job100;Fujitsu DAU;-8.4;QPU
+Job100;Fujitsu DAU;-8.4;QPU
+Job100;Fujitsu DAU;-8.4;QPU
+Job100;Fujitsu DAU;-8.4;QPU
+Job100;Fujitsu DAU;-8.42;QPU
+Job100;Fujitsu DAU;-8.43;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.46;QPU
+Job100;Fujitsu DAU;-8.47;QPU
+Job100;Fujitsu DAU;-8.47;QPU
+Job100;Fujitsu DAU;-8.49;QPU
+Job100;Fujitsu DAU;-8.49;QPU
+Job100;Fujitsu DAU;-8.49;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.5;QPU
+Job100;Fujitsu DAU;-8.51;QPU
+Job100;Fujitsu DAU;-8.53;QPU
+Job100;Fujitsu DAU;-8.53;QPU
+Job100;Fujitsu DAU;-8.53;QPU
+Job100;Fujitsu DAU;-8.54;QPU
+Job100;Fujitsu DAU;-8.55;QPU
+Job100;Fujitsu DAU;-8.56;QPU
+Job100;Fujitsu DAU;-8.56;QPU
+Job100;Fujitsu DAU;-8.56;QPU
+Job100;Fujitsu DAU;-8.56;QPU
+Job100;Fujitsu DAU;-8.56;QPU
+Job100;Fujitsu DAU;-8.57;QPU
+Job100;Fujitsu DAU;-8.57;QPU
+Job100;Fujitsu DAU;-8.57;QPU
+Job100;Fujitsu DAU;-8.57;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.6;QPU
+Job100;Fujitsu DAU;-8.63;QPU
+Job100;Fujitsu DAU;-8.63;QPU
+Job100;Fujitsu DAU;-8.63;QPU
+Job100;Fujitsu DAU;-8.63;QPU
+Job100;Fujitsu DAU;-8.65;QPU
+Job100;Fujitsu DAU;-8.65;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.67;QPU
+Job100;Fujitsu DAU;-8.68;QPU
+Job100;Fujitsu DAU;-8.68;QPU
+Job100;Fujitsu DAU;-8.68;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.7;QPU
+Job100;Fujitsu DAU;-8.71;QPU
+Job100;Fujitsu DAU;-8.71;QPU
+Job100;Fujitsu DAU;-8.71;QPU
+Job100;Fujitsu DAU;-8.71;QPU
+Job100;Fujitsu DAU;-8.72;QPU
+Job100;Fujitsu DAU;-8.72;QPU
+Job100;Fujitsu DAU;-8.72;QPU
+Job100;Fujitsu DAU;-8.73;QPU
+Job100;Fujitsu DAU;-8.73;QPU
+Job100;Fujitsu DAU;-8.73;QPU
+Job100;Fujitsu DAU;-8.73;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.74;QPU
+Job100;Fujitsu DAU;-8.76;QPU
+Job100;Fujitsu DAU;-8.76;QPU
+Job100;Fujitsu DAU;-8.76;QPU
+Job100;Fujitsu DAU;-8.76;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.77;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.78;QPU
+Job100;Fujitsu DAU;-8.79;QPU
+Job100;Fujitsu DAU;-8.79;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.8;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.81;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.82;QPU
+Job100;Fujitsu DAU;-8.83;QPU
+Job100;Fujitsu DAU;-8.84;QPU
+Job100;Fujitsu DAU;-8.84;QPU
+Job100;Fujitsu DAU;-8.85;QPU
+Job100;Fujitsu DAU;-8.85;QPU
+Job100;Fujitsu DAU;-8.86;QPU
+Job100;Fujitsu DAU;-8.86;QPU
+Job100;Fujitsu DAU;-8.86;QPU
+Job100;Fujitsu DAU;-8.86;QPU
+Job100;Fujitsu DAU;-8.86;QPU
+Job100;Fujitsu DAU;-8.87;QPU
+Job100;Fujitsu DAU;-8.87;QPU
+Job100;Fujitsu DAU;-8.87;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.88;QPU
+Job100;Fujitsu DAU;-8.89;QPU
+Job100;Fujitsu DAU;-8.89;QPU
+Job100;Fujitsu DAU;-8.9;QPU
+Job100;Fujitsu DAU;-8.9;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.91;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.92;QPU
+Job100;Fujitsu DAU;-8.94;QPU
+Job100;Fujitsu DAU;-8.94;QPU
+Job100;Fujitsu DAU;-8.95;QPU
+Job100;Fujitsu DAU;-8.95;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.96;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.98;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-8.99;QPU
+Job100;Fujitsu DAU;-9;QPU
+Job100;Fujitsu DAU;-9;QPU
+Job100;Fujitsu DAU;-9.01;QPU
+Job100;Fujitsu DAU;-9.01;QPU
+Job100;Fujitsu DAU;-9.01;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.02;QPU
+Job100;Fujitsu DAU;-9.03;QPU
+Job100;Fujitsu DAU;-9.03;QPU
+Job100;Fujitsu DAU;-9.03;QPU
+Job100;Fujitsu DAU;-9.03;QPU
+Job100;Fujitsu DAU;-9.03;QPU
+Job100;Fujitsu DAU;-9.05;QPU
+Job100;Fujitsu DAU;-9.05;QPU
+Job100;Fujitsu DAU;-9.05;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.06;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.08;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.09;QPU
+Job100;Fujitsu DAU;-9.1;QPU
+Job100;Fujitsu DAU;-9.1;QPU
+Job100;Fujitsu DAU;-9.1;QPU
+Job100;Fujitsu DAU;-9.1;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.12;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.13;QPU
+Job100;Fujitsu DAU;-9.14;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.16;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.17;QPU
+Job100;Fujitsu DAU;-9.18;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.19;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.2;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.22;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.23;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.24;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.26;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.27;QPU
+Job100;Fujitsu DAU;-9.29;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.3;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.32;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.33;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.34;QPU
+Job100;Fujitsu DAU;-9.36;QPU
+Job100;Fujitsu DAU;-9.36;QPU
+Job100;Fujitsu DAU;-9.36;QPU
+Job100;Fujitsu DAU;-9.36;QPU
+Job100;Fujitsu DAU;-9.36;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.37;QPU
+Job100;Fujitsu DAU;-9.38;QPU
+Job100;Fujitsu DAU;-9.38;QPU
+Job100;Fujitsu DAU;-9.39;QPU
+Job100;Fujitsu DAU;-9.39;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.4;QPU
+Job100;Fujitsu DAU;-9.41;QPU
+Job100;Fujitsu DAU;-9.41;QPU
+Job100;Fujitsu DAU;-9.42;QPU
+Job100;Fujitsu DAU;-9.43;QPU
+Job100;Fujitsu DAU;-9.43;QPU
+Job100;Fujitsu DAU;-9.43;QPU
+Job100;Fujitsu DAU;-9.43;QPU
+Job100;Fujitsu DAU;-9.43;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.44;QPU
+Job100;Fujitsu DAU;-9.45;QPU
+Job100;Fujitsu DAU;-9.46;QPU
+Job100;Fujitsu DAU;-9.46;QPU
+Job100;Fujitsu DAU;-9.47;QPU
+Job100;Fujitsu DAU;-9.47;QPU
+Job100;Fujitsu DAU;-9.47;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.48;QPU
+Job100;Fujitsu DAU;-9.49;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.5;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.51;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.54;QPU
+Job100;Fujitsu DAU;-9.55;QPU
+Job100;Fujitsu DAU;-9.55;QPU
+Job100;Fujitsu DAU;-9.55;QPU
+Job100;Fujitsu DAU;-9.57;QPU
+Job100;Fujitsu DAU;-9.57;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.58;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.61;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.62;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.64;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.65;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.68;QPU
+Job100;Fujitsu DAU;-9.69;QPU
+Job100;Fujitsu DAU;-9.69;QPU
+Job100;Fujitsu DAU;-9.71;QPU
+Job100;Fujitsu DAU;-9.71;QPU
+Job100;Fujitsu DAU;-9.71;QPU
+Job100;Fujitsu DAU;-9.71;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.72;QPU
+Job100;Fujitsu DAU;-9.74;QPU
+Job100;Fujitsu DAU;-9.74;QPU
+Job100;Fujitsu DAU;-9.74;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.75;QPU
+Job100;Fujitsu DAU;-9.76;QPU
+Job100;Fujitsu DAU;-9.76;QPU
+Job100;Fujitsu DAU;-9.76;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.78;QPU
+Job100;Fujitsu DAU;-9.79;QPU
+Job100;Fujitsu DAU;-9.79;QPU
+Job100;Fujitsu DAU;-9.79;QPU
+Job100;Fujitsu DAU;-9.79;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.82;QPU
+Job100;Fujitsu DAU;-9.85;QPU
+Job100;Fujitsu DAU;-9.85;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.86;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.89;QPU
+Job100;Fujitsu DAU;-9.92;QPU
+Job100;Fujitsu DAU;-9.92;QPU
+Job100;Fujitsu DAU;-9.92;QPU
+Job100;Fujitsu DAU;-9.92;QPU
+Job100;Fujitsu DAU;-9.92;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.93;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;Fujitsu DAU;-9.96;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-10;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-9;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-8;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-7;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-6;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-5;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-4;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-3;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-2;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;-1;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;0;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;1;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;2;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;3;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;4;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;5;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;6;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;7;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;8;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;9;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;10;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;11;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;12;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;13;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;14;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;15;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;16;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;17;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;18;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;19;QPU
+Job100;D Wave;20;QPU
+Job100;D Wave;20;QPU
+Job100;D Wave;21;QPU
+Job100;D Wave;21;QPU
+Job100;D Wave;22;QPU
+Job100;D Wave;22;QPU
+Job100;D Wave;22;QPU
+Job100;D Wave;22;QPU
+Job100;D Wave;23;QPU
+Job100;D Wave;23;QPU
+Job100;D Wave;23;QPU
+Job100;D Wave;24;QPU
+Job100;D Wave;24;QPU
+Job100;D Wave;24;QPU
+Job100;D Wave;26;QPU
+Job100;D Wave;26;QPU
+Job100;D Wave;34;QPU
+Job100;D Wave;38;QPU
+Job100;D Wave;48;QPU

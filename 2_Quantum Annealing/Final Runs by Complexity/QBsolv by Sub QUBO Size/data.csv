@@ -1,0 +1,21 @@
+Job Set;Sub-QUBO Size;Best Known Solutions (%)
+Jobs_100 A;5;98.00
+Jobs_100 A;10;92.60 
+Jobs_100 A;15;94.44
+Jobs_100 A;20;70.68
+Jobs_100 A;25;73.68
+Jobs_100 A;30;54.54
+Jobs_100 A;35;37.5
+Jobs_100 A;40;45.1
+Jobs_100 A;45;44.1
+Jobs_100 A;50;47.5 
+Jobs_100 B;5;100
+Jobs_100 B;10;100
+Jobs_100 B;15;100
+Jobs_100 B;20;100
+Jobs_100 B;25;100
+Jobs_100 B;30;100
+Jobs_100 B;35;100
+Jobs_100 B;40;100
+Jobs_100 B;45;100
+Jobs_100 B;50;100

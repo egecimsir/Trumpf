@@ -1,0 +1,140 @@
+\begin{thebibliography}{10}
+
+\bibitem{Nezhad2017}
+Majid Abdolrazzagh-Nezhad and Salwani Abdullah.
+\newblock Job shop scheduling: Classification, constraints and objective
+  functions.
+\newblock September 2017.
+
+\bibitem{Albash2018}
+Tameem Albash and Daniel~A. Lidar.
+\newblock Adiabatic quantum computation.
+\newblock {\em Reviews of Modern Physics}, 90(1), January 2018.
+
+\bibitem{Qbsolv2017}
+Michael Booth, Steven~P. Reinhardt, and Aidan Roy.
+\newblock Partitioning optimization problems for hybrid classical/quantum
+  execution.
+\newblock Technical report, D-Wave, October 2017.
+
+\bibitem{Pegasus2019}
+Kelly Boothby, Paul Bunyk, Jack Raymond, and Aidan Roy.
+\newblock Next-generation topology of d-wave quantum processors.
+\newblock Technical report, D-Wave, February 2019.
+
+\bibitem{Colwell2013}
+R.~Colwell.
+\newblock The chip design game at the end of moore's law.
+\newblock {\em 2013 IEEE Hot Chips 25 Symposium (HCS)}, pages 1--16, 2013.
+
+\bibitem{Leap2020}
+D-Wave.
+\newblock {\em D-Wave Hybrid Solver Service: An Overview}, February 2020.
+
+\bibitem{Handbook2021}
+D-Wave.
+\newblock {\em D-Wave Problem-Solving Handbook}, June 2021.
+
+\bibitem{Parameter2021}
+D-Wave.
+\newblock {\em D-Wave Solver Properties and Parameters Reference}, June 2021.
+
+\bibitem{QPU2021}
+D-Wave.
+\newblock {\em Technical Description of the D-Wave Quantum Processing Unit},
+  May 2021.
+
+\bibitem{Denkena2021}
+Berend Denkena, Fritz Schinkel, Jonathan Pirnay, and S{\"o}ren Wilmsmeier.
+\newblock Quantum algorithms for process parallel flexible job shop scheduling.
+\newblock {\em CIRP Journal of Manufacturing Science and Technology},
+  33:100--114, May 2021.
+
+\bibitem{Farhi2000}
+Edward Farhi, Jeffrey Goldstone, Sam Gutmann, and Michael Sipser.
+\newblock Quantum computation by adiabatic evolution.
+\newblock February 2000.
+
+\bibitem{Feld2019}
+Sebastian Feld, Christoph Roch, Thomas Gabor, Christian Seidel, Florian
+  Neukart, Isabella Galter, Wolfgang Mauerer, and Claudia Linnhoff-Popien.
+\newblock A hybrid solution method for the capacitated vehicle routing problem
+  using a quantum annealer.
+\newblock {\em Frontiers in ICT}, 6, June 2019.
+
+\bibitem{Fox2021}
+Dillion~M. Fox, Kim~M. Branson, and Ross~C. Walker.
+\newblock mrna codon optimization on quantum computers.
+\newblock {\em bioRxiv}, 2021.
+
+\bibitem{Griffiths1995}
+David~J. Griffiths.
+\newblock {\em Introduction of Quantum Mechanics}.
+\newblock Cambridge University Press, second edition, 2017.
+
+\bibitem{Homeister2018}
+Matthias Homeister.
+\newblock {\em Quantum Computing verstehen - Grundlagen -- Anwendungen --
+  Perspektiven}.
+\newblock Springer-Verlag, Wiesbaden, 2018.
+
+\bibitem{Kadowaki1998}
+Tadashi Kadowaki and Hidetoshi Nishimori.
+\newblock Quantum annealing in the transverse ising model.
+\newblock {\em Physical Review E}, 58:5355--5363, November 1998.
+
+\bibitem{Kurowski2020}
+Krzysztof Kurowski, Jan W{\c e}glarz, Marek Subocz, Rafa{\l} R{\'o}{\.{z}}ycki,
+  and Grzegorz Walig{\'o}ra.
+\newblock Hybrid quantum annealing heuristic method for solving job shop
+  scheduling problem.
+\newblock In Valeria~V. Krzhizhanovskaya, G{\'a}bor Z{\'a}vodszky, Michael~H.
+  Lees, Jack~J. Dongarra, Peter M.~A. Sloot, S{\'e}rgio Brissos, and Jo{\~a}o
+  Teixeira, editors, {\em Computational Science -- ICCS 2020}, pages 502--515,
+  Cham, 2020. Springer International Publishing.
+
+\bibitem{Linke2017}
+Norbert~M. Linke, Dmitri Maslov, Martin Roetteler, Shantanu Debnath, Caroline
+  Figgatt, Kevin~A. Landsman, Kenneth Wright, and Christopher Monroe.
+\newblock Experimental comparison of two quantum computing architectures.
+\newblock {\em Proceedings of the National Academy of Sciences}, 114(13):3305
+  -- 3310, 2017.
+
+\bibitem{Lucas2014}
+Andrew Lucas.
+\newblock Ising formulations of many np problems.
+\newblock {\em Frontiers in Physics}, 2, 2014.
+
+\bibitem{Marshall2017}
+Jeffrey Marshall, Eleanor~G. Rieffel, and Itay Hen.
+\newblock Thermalization, freeze-out, and noise: Deciphering experimental
+  quantum annealers.
+\newblock {\em Physical Review Applied}, 8(6), December 2017.
+
+\bibitem{Advantage2020}
+Catherine McGeoch and Pau Far{\'e}.
+\newblock The d-wave advantage system: An overview.
+\newblock Technical report, D-Wave, September 2020.
+
+\bibitem{Feld2020}
+Christoph Roch, Thomy Phan, Sebastian Feld, Robert M{\"u}ller, Thomas Gabor,
+  Carsten Hahn, and Claudia Linnhoff-Popien.
+\newblock A quantum annealing algorithm for finding pure nash equilibria in
+  graphical games.
+\newblock In Valeria~V. Krzhizhanovskaya, G{\'a}bor Z{\'a}vodszky, Michael~H.
+  Lees, Jack~J. Dongarra, Peter M.~A. Sloot, S{\'e}rgio Brissos, and Jo{\~a}o
+  Teixeira, editors, {\em Computational Science -- ICCS 2020}, pages 488--501,
+  Cham, 2020. Springer International Publishing.
+
+\bibitem{Tsukamoto2017}
+Sanroku Tsukamoto, M.~Takatsu, S.~Matsubara, and Hirotaka Tamura.
+\newblock An accelerator architecture for combinatorial optimization problems.
+\newblock {\em Fujitsu Scientific and Technical Journal}, 53:8--13, September
+  2017.
+
+\bibitem{Venturelli2016}
+Davide Venturelli, Dominic J.~J. Marchand, and Galo Rojo.
+\newblock Quantum annealing implementation of job-shop scheduling.
+\newblock 2016.
+
+\end{thebibliography}

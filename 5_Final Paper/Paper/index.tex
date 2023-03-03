@@ -1,0 +1,118 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[pages=some]{background}
+\usepackage[nottoc]{tocbibind}
+\usepackage{amssymb}
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{tabularx, booktabs, makecell, caption}
+ \usepackage{siunitx}
+\usepackage{fancyhdr}
+\usepackage{grffile}
+\usepackage{caption}
+\usepackage{cite}
+\usepackage{subcaption}
+\usepackage{adjustbox}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{cmap}
+\usepackage[english,ngerman]{babel}
+\usepackage{iflang}
+%\usepackage{showframe}
+% +------------------------------------------------------------------------------+ %
+% | ADD PACKAGES HERE IF YOU NEED THEM                                           | %
+% +------------------------------------------------------------------------------+ %
+\usepackage{amsmath}
+% +------------------------------------------------------------------------------+ %
+% | DO NOT CHANGE THE REST OF THIS DOCUMENT                                      | %
+% +------------------------------------------------------------------------------+ %
+
+\backgroundsetup{
+firstpage=true,
+placement=bottom,
+scale=1,
+color=black,
+opacity=0.4,
+angle=0,
+contents={%
+  \makebox[\paperwidth]{\hspace*{\fill}\includegraphics[width=.6\paperwidth]{images/lmu_seal}}%
+  }%
+}
+
+\widowpenalty10000
+\clubpenalty10000
+
+\begin{document}
+
+\input{config}
+
+\let\oldcontentsname\contentsname
+\renewcommand{\contentsname}{\centering\small\oldcontentsname}
+
+\title{\thesistitle}
+\author{\authorA \IfLanguageName{ngerman}{und}{and} \authorB}
+\date{\today}
+
+\begin{titlepage}
+	\centering
+    \BgThispage
+    \vspace*{-\topmargin}\vspace{-1in}%
+    \vspace*{-\headheight}\vspace{-\headsep}%
+    \vspace*{-\topskip}%
+    \hspace*{-\oddsidemargin}
+    \hspace*{-\marginparsep}
+    \hspace*{-\marginparwidth}
+    %\hspace{\textwidth}%
+	\makebox[\paperwidth]{\centering\includegraphics[width=.95\paperwidth]{images/lmu_header}}
+	\vspace*{1.75cm}
+	\par
+	{\scshape\large \practical\par}
+	{\huge\bfseries\thesistitle\par}
+	\vspace*{1.75cm}
+	\large \begin{tabular}{ l l }
+	  \textsc{Bearbeiter}:&{\authorA}\\
+	  &{\authorB}\\
+	  \\
+	  \textsc{Betreuer:}&{Jonas Stein, Sebastian Zielinski}\\
+	  \\
+	  \textsc{Aufgabensteller:}&{Prof. Dr. Claudia Linnhoff-Popien}\\
+	\end{tabular}
+	\par
+	\vspace*{1.75cm}
+	\begin{otherlanguage}{ngerman}
+		{\large Dokument erstellt\par\today\par}
+	\end{otherlanguage}
+	\newpage
+	\thispagestyle{empty}
+	\mbox{}
+	\newpage
+\end{titlepage}
+\cleardoublepage
+
+\begin{center}
+	\LARGE
+	\thesistitle
+\end{center} 
+\vspace*{.25cm}
+\begin{abstract}
+\noindent\thesisabstract
+\end{abstract}
+\vspace*{.25cm}
+\tableofcontents
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+\cleardoublepage
+
+\input{contents}
+
+\section*{\IfLanguageName{ngerman}{Autorenschaft}{Authorship}}
+\thesisauthorship
+
+\bibliography{references}
+\bibliographystyle{plain}
+
+\end{document}

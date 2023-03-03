@@ -1,0 +1,27 @@
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\contentsline {section}{\numberline {2}Grundlagen}{3}
+\contentsline {subsection}{\numberline {2.1}Job Shop Scheduling Probleme}{3}
+\contentsline {subsection}{\numberline {2.2}Quantenmechanische Postulate}{4}
+\contentsline {subsection}{\numberline {2.3}Quantum Annealing}{5}
+\contentsline {subsection}{\numberline {2.4}Quantum Gate Model}{7}
+\contentsline {section}{\numberline {3}Verwandte Arbeiten}{7}
+\contentsline {section}{\numberline {4}Konzept}{8}
+\contentsline {subsection}{\numberline {4.1}QUBO-Formulierung}{8}
+\contentsline {subsection}{\numberline {4.2}Pruning zur Komplexit\IeC {\"a}tsreduktion}{10}
+\contentsline {subsection}{\numberline {4.3}Allgemeines Vorgehen}{11}
+\contentsline {section}{\numberline {5}Evaluation}{13}
+\contentsline {subsection}{\numberline {5.1}Quantum Annealing}{13}
+\contentsline {subsubsection}{\numberline {5.1.1}Ergebnisse}{13}
+\contentsline {subsubsection}{\numberline {5.1.2}Direkter Vergleich der QPUs}{14}
+\contentsline {subsubsection}{\numberline {5.1.3}Weitere Parameter des D-Wave Advantage}{15}
+\contentsline {subsubsection}{\numberline {5.1.4}Hybrider Ansatz mit D-Wave Leap und Qbsolv}{16}
+\contentsline {subsection}{\numberline {5.2}Quantum Gate Model}{17}
+\contentsline {subsubsection}{\numberline {5.2.1}Qulacs-Simulator}{18}
+\contentsline {subsubsection}{\numberline {5.2.2}IBM Quantum System One}{18}
+\contentsline {subsubsection}{\numberline {5.2.3}Rigetti Aspen-9}{19}
+\contentsline {section}{\numberline {6}Fazit}{20}
+\contentsline {section}{Literatur}{27}

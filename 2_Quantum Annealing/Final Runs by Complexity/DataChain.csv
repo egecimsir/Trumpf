@@ -1,0 +1,25 @@
+Complexity;BKS;GKS;Chain Setting
+Job10;20;41;Max(QUBO)
+Job10;14.2;39.8;Max(QUBO)
+Job10;19.4;37;Scaled
+Job10;11.8;29.4;Scaled
+Job10;26.8;67;Torque Compensated
+Job10;19.6;61;Torque Compensated
+Job20;1.2;28;Max(QUBO)
+Job20;2.2;32.4;Max(QUBO)
+Job20;0.8;7;Scaled
+Job20;0.6;8.4;Scaled
+Job20;1.6;35.6;Torque Compensated
+Job20;1.8;28.2;Torque Compensated
+Job50;0.2;3.2;Max(QUBO)
+Job50;0.4;2.4;Max(QUBO)
+Job50;0.2;0.2;Scaled
+Job50;0.2;0.2;Scaled
+Job50;0.2;3.2;Torque Compensated
+Job50;0.2;2;Torque Compensated
+Job100;0.2;0.4;Max(QUBO)
+Job100;0.2;0.6;Max(QUBO)
+Job100;0.2;0.2;Scaled
+Job100;0.2;0.2;Scaled
+Job100;0.2;0.4;Torque Compensated
+Job100;0.2;0.2;Torque Compensated
